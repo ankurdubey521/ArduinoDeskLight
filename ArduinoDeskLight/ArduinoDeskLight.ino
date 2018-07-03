@@ -1,6 +1,6 @@
 //Ultrasonic Sensor Parameters
 #define OBS_COUNT 200           //Total Observations for averaging
-#define THRESHOLD_DISTANCE 16   //Distance of Keyboard Drawer
+#define THRESHOLD_DISTANCE 20   //Distance of Keyboard Drawer
 #define MAX_DIST 100
 
 //Ultrasonic Sensor
